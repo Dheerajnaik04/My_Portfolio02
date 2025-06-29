@@ -179,7 +179,7 @@ const Contact = () => {
             ✅ You'll receive a confirmation email after sending
           </p>
           <p className='text-secondary text-xs mt-2'>
-            Alternative: <a href="mailto:dheerajnaik04@gmail.com" className='text-white hover:text-[#915EFF]'>nsdheerajnaik1999@gmail.com</a>
+            Alternative: <a href="mailto:dheerajnaik04@gmail.com" className='text-white hover:text-[#915EFF]'>dheerajnaik04@gmail.com</a>
           </p>
         </div>
       </motion.div>

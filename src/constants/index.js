@@ -227,7 +227,7 @@ const projects = [
       { name: "cloudinary", color: "pink-text-gradient" },
     ],
     image: priscripto,
-    source_code_link: "https://github.com/Dheerajnaik04/priscripto",
+    source_code_link: "https://github.com/Dheerajnaik04/Doctor-Appontment-Booking-System",
   },
   {
     name: "Ghibli AI Generator",
@@ -239,7 +239,7 @@ const projects = [
       { name: "tailwind", color: "pink-text-gradient" },
     ],
     image: ghibili,
-    source_code_link: "https://github.com/Dheerajnaik04/ghibli-ai-generator",
+    source_code_link: "https://github.com/Dheerajnaik04/Ghibili",
   },
   {
     name: "MilVision",
@@ -263,7 +263,7 @@ const projects = [
       { name: "framer-motion", color: "pink-text-gradient" },
     ],
     image: tcrm,
-    source_code_link: "https://github.com/Dheerajnaik04/pulsecrm",
+    source_code_link: "https://github.com/Dheerajnaik04/PULSE-CRM",
   },
   {
     name: "AI Resume Niewer",
@@ -275,7 +275,7 @@ const projects = [
       { name: "nlp", color: "pink-text-gradient" },
     ],
     image: jonAI,
-    source_code_link: "https://github.com/Dheerajnaik04/ai-resume-niewer",
+    source_code_link: "https://github.com/Dheerajnaik04/Job-Screening-AI",
   },
   {
     name: "Macare",
@@ -287,8 +287,9 @@ const projects = [
       { name: "dbms", color: "pink-text-gradient" },
     ],
     image: maacare,
-    source_code_link: "https://github.com/Dheerajnaik04/macare",
+    source_code_link: "https://github.com/Dheerajnaik04/Blood-Bank-Management-System-DBMS",
   },
 ];
 
 export { services, technologies, experiences, testimonials, projects };
+niewer

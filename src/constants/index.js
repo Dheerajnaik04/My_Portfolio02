@@ -275,7 +275,7 @@ const projects = [
       { name: "nlp", color: "pink-text-gradient" },
     ],
     image: jonAI,
-    source_code_link: "https://github.com/Dheerajnaik04/Job-Screening-AI",
+    source_code_link: "https://github.com/Dheerajnaik04/ai-resume-niewer",
   },
   {
     name: "Macare",
@@ -292,4 +292,3 @@ const projects = [
 ];
 
 export { services, technologies, experiences, testimonials, projects };
-niewer
